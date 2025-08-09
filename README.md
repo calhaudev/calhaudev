@@ -2,7 +2,7 @@
 ![Stack](https://img.shields.io/badge/Main_Stack-React_&_Node.js-brightgreen)
 ![Location](https://img.shields.io/badge/Based-in_Brazil-yellow)
 ![Experience](https://img.shields.io/badge/Experience-%2B10%20years-informational)
-![Relocation](https://img.shields.io/badge/Open%20to-Relocation%20(US)-blueviolet)
+![Relocation](https://img.shields.io/badge/Open%20to-Relocation-blueviolet)
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/rafaelcalhau?label=GitHub%20Followers&style=social)-->
 
 <h1>Hi there, I'm Rafael 👋</h1>
