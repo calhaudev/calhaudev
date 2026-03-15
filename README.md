@@ -12,10 +12,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **Senior Frontend Engineer** at [Neogrid](https://neogrid.com)
-- 🌱 Focused on **React**, **modular architectures**, and **clean code**
+- 🔭 I’m currently looking for a new job =)
+- 🌱 Focused on **Full-stack development**, **modular architectures**, and **clean code**
 - 🧠 Interested in space exploration, AI, genetics, and how to build better software
-- 🚀 Indie hacker working on small SaaS apps with my own software studio
+- 🚀 Indie hacker working on small SaaS apps
 - 🐾 Animal lover — I find time with pets helps recharge my mind
 - 📬 Reach me: [LinkedIn](https://linkedin.com/in/rafaelcalhau) | [Email](mailto:calhaudev@gmail.com)
 
@@ -23,12 +23,11 @@
 
 - **Languages:**      JavaScript | TypeScript | PHP | Java
 - **Frontend:**       React | React Native | Vue.js | Angular
-- **Backend:**        Node.js | NestJS | Express | Fastify | Laravel 
-- **Databases:**      MySQL | PostgreSQL | MongoDB | BigQuery | Firestore | DynamoDB | ElasticSearch 
+- **Backend:**        Node.js | NestJS | Express | Fastify | Laravel | Spring Boot
+- **Databases:**      MySQL | PostgreSQL | MongoDB | BigQuery | Firestore | DynamoDB
 - **Cloud & DevOps:** AWS | Firebase | Docker | K8s | Terraform
 
 ### 🧠 Fun Facts
 
-- 💡 I sometimes shuffle dance while thinking through code
 - 🪐 Aspiring to one day build software for the **space industry**
 - 🎮 Bought my wife a pink Xbox controller, but she never plays. 😅
