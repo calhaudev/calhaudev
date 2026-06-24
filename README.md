@@ -7,7 +7,7 @@
 
 <h1>Hi there, I'm Rafael 👋</h1>
 <p>
-  <em>Senior Frontend Engineer | Fullstack Developer | Indie Maker | 🇧🇷 Based in Brazil</em>
+  <em>Senior Fullstack Engineer | Indie Maker | 🇧🇷 Based in Brazil</em>
 </p>
 
 ### 👨‍💻 About Me
