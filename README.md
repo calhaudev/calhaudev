@@ -1,4 +1,4 @@
-![Role](https://img.shields.io/badge/Current_Role-Frontend_Engineer-blue)
+![Role](https://img.shields.io/badge/Current_Role-Full_Stack_Engineer-blue)
 ![Stack](https://img.shields.io/badge/Main_Stack-React_&_Node.js-brightgreen)
 ![Location](https://img.shields.io/badge/Based-in_Brazil-yellow)
 ![Experience](https://img.shields.io/badge/Experience-%2B10%20years-informational)
